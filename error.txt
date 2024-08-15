@@ -10,3 +10,12 @@ To resolve above error install below command
 	To install react graph 
 
 	npm i react-chartjs-2 chart.js
+
+	another error will be come when running code
+
+	remote: Repository not found.
+	 fatal: repository 'https://github.com/Devil9674/React_Graph.git/' not found
+
+	 To resolve this error
+
+	 git remote set-url origin https://github.com/charansai2427/React_Graphs.git
