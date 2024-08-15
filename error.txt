@@ -5,3 +5,8 @@ Error will come when we run any reactjs project
 To resolve above error install below command
 
 	npm install --save-dev ajv@8
+
+
+	To install react graph 
+
+	npm i react-chartjs-2 chart.js
